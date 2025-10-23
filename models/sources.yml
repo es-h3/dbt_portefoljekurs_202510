@@ -1,7 +1,7 @@
 sources:
   - name: jaffle_shop
     description: This is a replica of the Postgre database use by our app
-    database: row
+    database: raw
     schema: jaffle_shop
     tables:
       - name: customers

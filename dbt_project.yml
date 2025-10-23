@@ -40,4 +40,4 @@ models:
     +materialized: table
     # Applies to all files under models/example/
   
-    
+   
